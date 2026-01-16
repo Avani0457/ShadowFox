@@ -9,16 +9,16 @@ Conditionals & Loops: decision making, user input handling, iterative simulation
 
 Intermediate Projects:
 
-Web Scraping using BeautifulSoup
+Web Scraping using BeautifulSoup and
 Hangman Game with hints & visual progress
 Advanced Project: 
 NLP task 
 
 Technical Skills Learned:
 
-Python scripting & automation
-Object-Oriented Programming (OOP)
-Data structuring & manipulation
-Basic data analysis workflows
+Python scripting & automation,
+Object-Oriented Programming (OOP),
+Data structuring & manipulation,
+Basic data analysis workflows,
 Web scraping foundations
-Interactive CLI applications
+and Interactive CLI applications
